@@ -1,0 +1,10 @@
+{
+  "name": "agente-irds-final",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "scripts": { "start": "node api/index.js" },
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.28.3",
+    "express": "^4.18.2"
+  }
+}
